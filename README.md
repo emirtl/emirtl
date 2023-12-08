@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @emirtl
 - 👀 I love coding . İt's my life actually . To me coding is like painting . 
-- 🌱 I’m currently learning ml
- with python
+
 
 
 <!---
